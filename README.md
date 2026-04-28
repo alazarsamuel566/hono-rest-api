@@ -201,11 +201,7 @@ Push schema to database:
 npx drizzle-kit push --dialect sqlite --url "file:./database.sqlite" --schema ./src/db/schema.ts
 ```
 
-Open Drizzle Studio:
 
-```bash
-npm run db:studio
-```
 
 ## API Response Codes
 
